@@ -1,0 +1,35 @@
+{
+  "name": "consolog",
+  "version": "0.0.0",
+  "description": "console log without [%] function",
+  "homepage": "http://github.com/shinout/consolog",
+  "author": "Shin Suzuki<shinout310@gmail.com>",
+  "keywords": [
+    "console",
+    "log"
+  ],
+  "main": "lib/consolog.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "coffee-script": ">= 1.7.1",
+    "grunt": "^0.4.4",
+    "grunt-contrib-coffee": "^0.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shinout/consolog"
+  },
+  "bugs": {
+    "url": "http://github.com/shinout/consolog/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/shinout/consolog/blob/master/MIT-LICENSE"
+    }
+  ]
+}
