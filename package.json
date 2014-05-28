@@ -1,6 +1,6 @@
 {
   "name": "consolog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "console log without [%] function",
   "homepage": "http://github.com/shinout/consolog",
   "author": "Shin Suzuki<shinout310@gmail.com>",

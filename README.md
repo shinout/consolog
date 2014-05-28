@@ -18,3 +18,12 @@ consolog("%%"); // %%
 
 consolog("a", "b") // a b
 ```
+
+stderr
+```js
+console.error("%%"); // %
+var consolog = require("consolog");
+consolog.e("%%"); // %%, to stderr
+
+consolog.e("a", "b") // a b, to stderr
+```
