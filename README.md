@@ -1,7 +1,6 @@
 consolog
 ==========
 consolog is a simple function resembling console.log
-Uses samtools If exists, otherwise uses a native parser.
 
 installation
 ----------------
